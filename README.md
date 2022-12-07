@@ -1,7 +1,7 @@
 # Hackathon: ARVR Africa Metathon 2022 submission
-Team: SilentSnipers
+Team: Silent Snipers
 
-Project Name: UnboundVirtualTours
+Project Name: Unbound Virtual Tours
 
 Team members: Susan Jonas,
               Tamara Jonas
